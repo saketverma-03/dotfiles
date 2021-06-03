@@ -1,0 +1,8 @@
+// These settings override both User and Default settings for the Plain text syntax
+{
+	"folder_exclude_patterns":
+[
+"projectFolder/node_modules",
+"projectNumber2Folder/node_modules"
+]
+}

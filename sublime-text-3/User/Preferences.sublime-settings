@@ -1,0 +1,22 @@
+{
+	"ignored_packages":
+	[
+		"node_modules",
+	],
+	"dark_theme": "Default Dark.sublime-theme",
+	"light_theme": "Default Dark.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/GitHub Theme/schemes/GitHub Dimmed.sublime-color-scheme",
+	"dark_color_scheme": "Packages/Theme - Gravity/One Dark Gravity.sublime-color-scheme",
+	"light_color_scheme": "Packages/Babel/Next.tmTheme",
+	"font_face": "ubuntu mono",
+	// "font_face": "Fira Code",
+	"font_size": 15,
+
+	// Additional spacing at the top of each line, in pixels
+	"line_padding_top": 3,
+
+	// Additional spacing at the bottom of each line, in pixels
+	"line_padding_bottom": 4,
+
+}
